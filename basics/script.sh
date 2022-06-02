@@ -2,9 +2,9 @@
 
 
 
-path=$(/zero_day/Shell/basics/ “${BASH_SOURCE:-$0}”)
+path=$(realpath “${BASH_SOURCE:-$0}”)
 
-echo ‘The absolute path is’ $path
+echo ‘The absolute path is’ $path /root/zero_day/zero_day/Shell/basics/
 
 
 
@@ -12,6 +12,6 @@ echo ‘-----------------------------------’
 
 
 
-DIR_PATH=$(/Shell/basics/ $path)
+DIR_PATH=$(dirname $path)
 
-echo ‘The directory path is’ $DPATH
+echo ‘The directory path is’ $DPATH /Shell/basics/
