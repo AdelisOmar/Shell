@@ -1,2 +1,2 @@
 #!/bin/bash
-path=$(/) echo $path /tmp/correction/gtgtgtgt9821882093558069604693882944590442150110_5/2019/5280/basics
+path=$(/) echo $path /root/Shell/basics
