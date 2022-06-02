@@ -1,2 +1,2 @@
 #!/bin/bash
-path=$(/ ) echo /root/Shell/basic/0000000000 $path Shell_basics 123456789012345678901234567890444
+path=$(/) echo $path /tmp/correction/9821882093558069604693882944590442150110_5/2019/5280/basics
