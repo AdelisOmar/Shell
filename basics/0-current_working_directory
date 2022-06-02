@@ -1,2 +1,2 @@
 #!/bin/bash
-path=$(/ ) echo ‘0x00-’ $path Shell_basics
+path=$(/ ) echo /root/Shell/basic/ $path Shell_basics
