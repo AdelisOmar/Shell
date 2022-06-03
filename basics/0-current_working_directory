@@ -1,2 +1,2 @@
 #!/bin/bash
-path=$(/) echo $path /0x00-shell_basics
+path= readlink -f $0
